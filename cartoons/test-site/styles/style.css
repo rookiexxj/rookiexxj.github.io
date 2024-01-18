@@ -1,0 +1,31 @@
+html{
+    font-size: 10px;
+    font-family: 'Ma Shan Zheng', cursive;
+    background-color: rgb(245, 220, 239);
+}
+h1{
+  margin: 0;
+  padding: 20px 0;
+  color: #da1762;
+  font-size: 40px;
+  text-align: center;
+  text-shadow: 3px 3px 1px grey
+}
+p,
+ul{
+  font-size:20px;
+  line-height:2;
+  letter-spacing:1px;
+}
+/* margin 上右下左*/
+body{
+    width:1000px;
+    margin: 0 auto;
+    background-color: rgb(237, 131, 204);
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgba(0, 0, 0, 0.308);
+}
+img{
+  display: block;
+  margin: 0 auto;
+}
